@@ -1,46 +1,46 @@
-Issue
-Values are missing
-Zeros replace missing values
-Data are missing you know should be there
-Rows or values are duplicated
-Spelling is inconsistent
-Name order is inconsistent
-Date formats are inconsistent
-Units are not specified
-Categories are badly chosen
-Field names are ambiguous
-Provenance is not documented
-Suspicious values are present
-Data are too coarse
-Totals differ from published aggregates
-Spreadsheet has 65536 rows
-Spreadsheet has 255 columns
-"Spreadsheet has dates in 1900, 1904, 1969, or 1970"
-Text has been converted to numbers
-Numbers have been stored as text
-Text is garbled
-Line endings are garbled
-Data are in a PDF
-Data are too granular
-Data were entered by humans
-Data are intermingled with formatting and annotations
-Aggregations were computed on missing values
-Sample is not random
-Margin-of-error is too large
-Margin-of-error is unknown
-Sample is biased
-Data have been manually edited
-Inflation skews the data
-Natural/seasonal variation skews the data
-Timeframe has been manipulated
-Frame of reference has been manipulated
-Author is untrustworthy
-Collection process is opaque
-Data assert unrealistic precision
-There are inexplicable outliers
-An index masks underlying variation
-Results have been p-hacked
-Benford's Law fails
-Too good to be true
-Data are aggregated to the wrong categories or geographies
-Data are in scanned documents
+Issue,Person,Notes for Writeup
+Aggregations were computed on missing values,Michael,
+An index masks underlying variation,Michael,
+Author is untrustworthy,Angie,
+Benford's Law fails,Travis,
+Categories are badly chosen,Angie,
+Collection process is opaque,Dar'ya,
+Data are aggregated to the wrong categories or geographies,Travis,
+Data are in a PDF,Michael,
+Data are in scanned documents,Angie,
+Data are intermingled with formatting and annotations,Michael,
+Data are missing you know should be there,Angie,
+Data are too coarse,Travis,
+Data are too granular,Angie,
+Data assert unrealistic precision,Michael,
+Data have been manually edited,Michael,
+Data were entered by humans,Travis,
+Date formats are inconsistent,Michael,
+Field names are ambiguous,Angie,
+Frame of reference has been manipulated,Michael,
+Inflation skews the data,Travis,
+Line endings are garbled,Angie,
+Margin-of-error is too large,Dar'ya,
+Margin-of-error is unknown,Angie,
+Name order is inconsistent,Angie,
+Natural/seasonal variation skews the data,Travis,
+Numbers have been stored as text,Dar'ya,
+Provenance is not documented,Angie,
+Results have been p-hacked,Michael,
+Rows or values are duplicated,Dar'ya,
+Sample is biased,Dar'ya,
+Sample is not random,Michael,
+Spelling is inconsistent,Dar'ya,
+Spreadsheet has 255 columns,Travis,
+Spreadsheet has 65536 rows,Dar'ya,
+"Spreadsheet has dates in 1900, 1904, 1969, or 1970",Travis,
+Suspicious values are present,Travis,
+Text has been converted to numbers,Michael,
+Text is garbled,Dar'ya,
+There are inexplicable outliers,Travis,
+Timeframe has been manipulated,Angie,
+Too good to be true,Dar'ya,
+Totals differ from published aggregates,Travis,
+Units are not specified,Dar'ya,
+Values are missing,Dar'ya,
+Zeros replace missing values,Dar'ya,
