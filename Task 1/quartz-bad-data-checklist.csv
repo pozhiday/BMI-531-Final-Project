@@ -37,7 +37,7 @@ Spreadsheet has 65536 rows,Dar'ya,
 Suspicious values are present,Travis,
 Text has been converted to numbers,Michael,
 Text is garbled,Dar'ya,
-There are inexplicable outliers,Travis,
+There are inexplicable outliers,Travis,4 genes in the s009 dataset demonstrate very high "fold changes". Specifically Adam 18/Epx/Fgl1/Trim12 all had fold changes in the tens of millions, while all other genes were in the range of less than 100. 
 Timeframe has been manipulated,Angie,
 Too good to be true,Dar'ya,
 Totals differ from published aggregates,Travis,
