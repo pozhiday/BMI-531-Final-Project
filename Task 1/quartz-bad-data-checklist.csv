@@ -1,31 +1,31 @@
 Issue,Person,Notes for Writeup
 Aggregations were computed on missing values,Michael,
 An index masks underlying variation,Michael,
-Author is untrustworthy,Angie,
+Author is untrustworthy,Angie,All authors seem to be trustworthy
 Benford's Law fails,Travis,
-Categories are badly chosen,Angie,
+Categories are badly chosen,Angie,Categories are well chosen and in the paper they state why categories and methods were chosen
 Collection process is opaque,Dar'ya,
 Data are aggregated to the wrong categories or geographies,Travis,
 Data are in a PDF,Michael,
-Data are in scanned documents,Angie,
+Data are in scanned documents,Angie,Yes figures were developed from ggplot
 Data are intermingled with formatting and annotations,Michael,
-Data are missing you know should be there,Angie,
+Data are missing you know should be there,Angie,N/A
 Data are too coarse,Travis,
-Data are too granular,Angie,
+Data are too granular,Angie,Data was divided into understandable and distinguishable pieces
 Data assert unrealistic precision,Michael,
 Data have been manually edited,Michael,
 Data were entered by humans,Travis,
 Date formats are inconsistent,Michael,
-Field names are ambiguous,Angie,
+Field names are ambiguous,Angie,N/A
 Frame of reference has been manipulated,Michael,
 Inflation skews the data,Travis,
-Line endings are garbled,Angie,
+Line endings are garbled,Angie,N/A
 Margin-of-error is too large,Dar'ya,
-Margin-of-error is unknown,Angie,
-Name order is inconsistent,Angie,
+Margin-of-error is unknown,Angie,N/A
+Name order is inconsistent,Angie,Name order is consistent
 Natural/seasonal variation skews the data,Travis,
 Numbers have been stored as text,Dar'ya,
-Provenance is not documented,Angie,
+Provenance is not documented,Angie,Provenance is documented
 Results have been p-hacked,Michael,
 Rows or values are duplicated,Dar'ya,
 Sample is biased,Dar'ya,
@@ -38,7 +38,7 @@ Suspicious values are present,Travis,
 Text has been converted to numbers,Michael,
 Text is garbled,Dar'ya,
 There are inexplicable outliers,Travis,
-Timeframe has been manipulated,Angie,
+Timeframe has been manipulated,Angie,N/A
 Too good to be true,Dar'ya,
 Totals differ from published aggregates,Travis,
 Units are not specified,Dar'ya,
